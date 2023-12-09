@@ -5,4 +5,4 @@ type of luggage they carry in, vehicles passing through a traffic signal etc. In
 algorithm to track multiple objects using Kalman filter is discussed where the scene is monitored
 by a fixed camera, from which data is extracted. The result obtained shows that moving multiple
 objects are efficiently tracked under real-time conditions. 
-Final.avi shows the demo of our work!
+Final_video.mp4 shows the demo of our work!
