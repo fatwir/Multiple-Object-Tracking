@@ -9,5 +9,6 @@ Final_video.mp4 shows the demo of our work!
 
 Please find the working demo here
 
-[![Car](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/d1fb8708-3fbe-4fef-af7e-dea6eccc28c5)]
+![Car Tracked](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/409c826b-c8ad-411d-9377-695aac99e946)
+
 
