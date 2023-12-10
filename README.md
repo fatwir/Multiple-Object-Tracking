@@ -7,8 +7,7 @@ by a fixed camera, from which data is extracted. The result obtained shows that 
 objects are efficiently tracked under real-time conditions. <br>
 Final_video.mp4 shows the demo of our work!
 
-Please find the working demo here
+Please find the working demos here
 
 ![Car Tracked](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/409c826b-c8ad-411d-9377-695aac99e946)
-
-
+![Dice Tracked](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/c6c45268-f5c0-4be5-9c5f-dfd373bb9c1b)
