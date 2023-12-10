@@ -10,4 +10,4 @@ Final_video.mp4 shows the demo of our work!
 Please find the working demos here
 
 ![Car Tracked](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/409c826b-c8ad-411d-9377-695aac99e946)
-![Dice Tracked](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/c6c45268-f5c0-4be5-9c5f-dfd373bb9c1b)
+![Dice Tracked](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/822c7f36-b548-44d6-8cc6-e86b31831d3f)
