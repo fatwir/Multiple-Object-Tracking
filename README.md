@@ -6,3 +6,8 @@ algorithm to track multiple objects using Kalman filter is discussed where the s
 by a fixed camera, from which data is extracted. The result obtained shows that moving multiple
 objects are efficiently tracked under real-time conditions. <br>
 Final_video.mp4 shows the demo of our work!
+
+Please find the working demo here
+
+![Car](https://github.com/fatwir/Multiple-Object-Tracking/assets/81345858/d1fb8708-3fbe-4fef-af7e-dea6eccc28c5)
+
